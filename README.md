@@ -1,4 +1,4 @@
-# Plotly_stock_dashboard
+# Description
 
 ![image](https://github.com/Bhipanshu/Plotly_stock_dashboard/assets/91373531/33302724-7a89-4487-ba9f-f5996ea7d77f)
 
