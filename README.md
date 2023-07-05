@@ -21,8 +21,4 @@ Key Features:
 
 🚀 Live Basis Tracking: The project operates in real-time, continuously fetching the latest stock data and updating the graphs accordingly. This live tracking ensures users have access to the most current information, empowering them with up-to-the-minute data for their trading strategies.
 
-Video Demonstration:
-A video showcasing the project in action is included for a visual demonstration of its impressive capabilities with Plotly.
-
-Collaboration and Feedback:
-We welcome collaboration opportunities and appreciate any feedback or suggestions for enhancing this project. Feel free to reach out if you have questions, ideas, or would like to collaborate on similar projects. Let's dive into the world of dynamic stock graphing and unlock valuable insights for smarter trading decisions!
+I welcome collaboration opportunities and appreciate any feedback or suggestions for enhancing this project. Feel free to reach out if you have questions, ideas, or would like to collaborate on similar projects. Thanks!
